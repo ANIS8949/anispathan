@@ -32,7 +32,8 @@
 * Performed data preprocessing & visualization
 * Achieved better accuracy using multiple features
 
-👉 [View Project](https://github.com/anispathan/customer-churn-prediction)
+👉 [View Project](https://github.com/ANIS8949/customer-churn-prediction)
+
 
 ---
 
