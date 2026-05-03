@@ -24,15 +24,33 @@
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### 🔹 Customer Churn Prediction
+### 🔹 📊 Customer Churn Prediction
 
 * Built ML models using Keras
-* Performed data preprocessing & visualization
-* Achieved better accuracy using multiple features
+* Data preprocessing & visualization
+* Improved accuracy using multiple features
+  👉 [View Project](https://github.com/ANIS8949/customer-churn-prediction)
+  
 
-👉 [View Project](https://github.com/ANIS8949/customer-churn-prediction)
+---
+
+### 🔹 🚗 Car Rental System (Python)
+
+* Developed a console-based car rental system using Python
+* Implemented features like booking, return, and availability tracking
+* Applied object-oriented programming concepts
+  👉 [View Project](https://github.com/ANID8949/car-rental-system-python)
+
+---
+
+### 🔹 📈 Sales Dashboard (Excel)
+
+* Created interactive dashboard using Excel
+* Used pivot tables & charts
+  👉 [View Project](https://github.com/your-username/sales-dashboard)
+
 
 
 ---
